@@ -1,0 +1,6 @@
+pandas
+pymongo
+transformers
+torch
+llama-index
+langchain
