@@ -131,5 +131,4 @@ After executing the query, if you wish to save the results to a CSV file, the ap
 
 ---
 
-Enjoy using the MongoDB Query Generation Application!
 
